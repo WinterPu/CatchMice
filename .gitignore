@@ -13,3 +13,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Assets Projects
+AssetsProjects/*
+
+
+# Some Model which is used as a sample, need to be replaced in the future
+Content/LargeAssets/SampleModel_ReplacementRequired/*
